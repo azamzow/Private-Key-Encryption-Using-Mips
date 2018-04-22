@@ -2,7 +2,7 @@
 
 ### Description
 
-A MIPS assembly language, an encryption/decryption program. The program prompts the user for two separate inputs from the keyboard. 
+A MIPS assembly language encryption/decryption program. The program prompts the user for two separate inputs from the keyboard. 
 
 1. Prompt #1 : ENTER THE ENCRYPTION KEY (A NUMBER BETWEEN 1 and 15):
 
