@@ -32,7 +32,7 @@ Using a Mac, you can open Mars4_5.jar file given. Once opened, you can open the 
 
 ### Output
 
-The program outputs the encrypted or decrypted message to the screen.
+The program outputs the encrypted and decrypted message to the screen.
 
 EX output given below:
 
